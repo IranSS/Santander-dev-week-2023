@@ -27,7 +27,7 @@ dependencies {
 
 tasks.jar{
 	manifest {
-		attributes["Main-Class"] = "Application.java"
+		attributes["Main-Class"] = "project.Application"
 	}
 }
 
